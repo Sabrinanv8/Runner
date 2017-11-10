@@ -1,6 +1,6 @@
 import com.sun.xml.internal.bind.v2.util.CollisionCheckStack;
 import edu.princeton.cs.introcs.Picture;
-import edu.princeton.cs.introcs.StdDraw;
+import edu.princeton.cs.introcs.StdDraw; //Upload libraries
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
